@@ -1,10 +1,27 @@
-# OD&H Hash Cracker
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-hash-cracker/main/.github/banner.png" alt="Oblivion Hash Cracker — by Oblivion" width="100%"></a>
+</p>
 
-A powerful and professional hash cracking tool brought to you by Oblivion Development & Hosting (OD&H).  This tool provides efficient methods for cracking password hashes, including dictionary attacks and brute-force techniques.
+<h1 align="center">Oblivion Hash Cracker</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Fast Python hash cracker with wordlist and brute-force modes (MD5, SHA1, SHA256, SHA512, NTLM). Ethical hacking & CTF tool by Oblivion.</b></p>
+
+<p align="center">`hash-cracker` · `password-cracking` · `md5` · `sha256` · `ntlm` · `brute-force`</p>
+
+---
+
+A powerful and professional hash cracking tool brought to you by Oblivion (Oblivion).  This tool provides efficient methods for cracking password hashes, including dictionary attacks and brute-force techniques.
 
 ## Overview
 
-The OD&H Hash Cracker is a Python-based tool designed for security professionals and enthusiasts to test the strength of password hashes.  It offers:
+The Oblivion Hash Cracker is a Python-based tool designed for security professionals and enthusiasts to test the strength of password hashes.  It offers:
 
 *   **Support for common hash algorithms:** MD5, SHA1, SHA256, SHA512, and more.
 *   **Wordlist-based cracking:** Attempts to crack the hash by comparing it against a list of potential passwords.
@@ -13,7 +30,7 @@ The OD&H Hash Cracker is a Python-based tool designed for security professionals
 *   **Object-oriented design:** Makes the code modular, extensible, and easy to maintain.
 *   **Clear and informative output:** Provides progress updates and error messages.
 
-**Developed and Maintained by Oblivion Development & Hosting (OD&H)**
+**Developed and Maintained by Oblivion (Oblivion)**
 
 ## Features
 
@@ -30,7 +47,7 @@ The OD&H Hash Cracker is a Python-based tool designed for security professionals
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ivanbg2004/ODH-h45hcr4ck3r.git
+    git clone https://github.com/ivanbg2004/oblivion-hash-cracker.git
     cd odh-hash-cracker
     ```
 
@@ -80,30 +97,30 @@ The OD&H Hash Cracker is a Python-based tool designed for security professionals
  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
 
 -----------------------------------------
-       OD&H - Oblivion Development
+       Oblivion - Oblivion Development
 -----------------------------------------
 
 Enter the hash: e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4
 Enter the hash type (md5, sha1, sha256, etc.): sha1
 Choose attack type (wordlist, brute-force, rainbow-table, or auto): auto
-Enter path to wordlist: You can use: https://raw.githubusercontent.com/ivanbg2004/ODH-h45hcr4ck3r/refs/heads/main/odh-wordlist.txt
+Enter path to wordlist: You can use: https://raw.githubusercontent.com/ivanbg2004/oblivion-hash-cracker/refs/heads/main/odh-wordlist.txt
 Enter charset for brute-force (e.g., abcdefghijklmnopqrstuvwxyz0123456789): abcdefg
 Enter minimum password length: 1
 Enter maximum password length: 4
 ```
 
-## OD&H Wordlist
+## Oblivion Wordlist
 
 To enhance the effectiveness of the wordlist attack, we provide a curated wordlist specifically designed for this tool. This wordlist is designed for fast, ethical cracking and is available at:
 
-[Check it out here!](https://raw.githubusercontent.com/ivanbg2004/ODH-h45hcr4ck3r/refs/heads/main/odh-wordlist.txt)
+[Check it out here!](https://raw.githubusercontent.com/ivanbg2004/oblivion-hash-cracker/refs/heads/main/odh-wordlist.txt)
 
 **Important Considerations:**
 
 *   **Use with Caution:** As with any wordlist, ensure you only use this for authorized penetration testing and security assessments.
 *   **License:** This wordlist is provided under the same license as this tool (MIT License). See the [LICENSE](LICENSE) file for more details.
 *   **Content:** This wordlist may contain sensitive information. Handle it responsibly and securely.
-*   **Ethical Use:** OD&H is not responsible for any misuse of this wordlist. Ensure you comply with all applicable laws and ethical guidelines.
+*   **Ethical Use:** Oblivion is not responsible for any misuse of this wordlist. Ensure you comply with all applicable laws and ethical guidelines.
 
 **How to Use:**
 
@@ -112,11 +129,11 @@ To enhance the effectiveness of the wordlist attack, we provide a curated wordli
 
 **Disclaimer:**
 
-OD&H does not guarantee the success of cracking any particular hash using this wordlist. The effectiveness of any wordlist depends on various factors, including the password complexity and the target system.
+Oblivion does not guarantee the success of cracking any particular hash using this wordlist. The effectiveness of any wordlist depends on various factors, including the password complexity and the target system.
 
 ## Contributing
 
-We welcome contributions to the OD&H Hash Cracker!  Please follow these guidelines:
+We welcome contributions to the Oblivion Hash Cracker!  Please follow these guidelines:
 
 1.  Fork the repository.
 2.  Create a new branch for your feature or bug fix.
@@ -129,9 +146,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-*   Developed and Maintained by Oblivion Development & Hosting (OD&H)
-*   [Link to OD&H Website](https://odh.ivan-vcard.xyz)
+*   Developed and Maintained by Oblivion (Oblivion)
+*   [Link to Oblivion Website](https://odh.ivan-vcard.xyz)
 
-Copyright © 2025 Oblivion Development & Hosting (OD&H).  All rights reserved.
+Copyright © 2025 Oblivion (Oblivion).  All rights reserved.
 
-This software is a weapon.  Use it wisely, and only on targets you are authorized to engage. OD&H accepts no responsibility for collateral damage or unauthorized incursions. By using this tool, you agree to uphold the highest ethical standards in your digital endeavors. May your hashes crack swiftly and your intentions remain true.
+This software is a weapon.  Use it wisely, and only on targets you are authorized to engage. Oblivion accepts no responsibility for collateral damage or unauthorized incursions. By using this tool, you agree to uphold the highest ethical standards in your digital endeavors. May your hashes crack swiftly and your intentions remain true.
+
+
+
+## ⚠️ Ethical use
+
+Oblivion Hash Cracker is built for **authorized security testing, education and CTFs only**. Use it only on systems you own or have explicit written permission to test. You are responsible for complying with all applicable laws. The authors accept no liability for misuse.
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: hash-cracker, password-cracking, md5, sha256, ntlm, brute-force, wordlist-attack, ethical-hacking, cybersecurity, pentesting, ctf-tools, python, hashcat-alternative.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
